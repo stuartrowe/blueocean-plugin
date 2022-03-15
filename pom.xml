@@ -688,7 +688,7 @@
         <dependency> <!-- TODO pending https://github.com/jenkinsci/jenkins-test-harness/pull/2 -->
             <groupId>org.eclipse.sisu</groupId>
             <artifactId>org.eclipse.sisu.plexus</artifactId>
-            <version>0.1.0</version>
+            <version>0.3.5</version>
         </dependency>
         <dependency>
             <groupId>com.damnhandy</groupId>
