@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.kohsuke.stapler</groupId>
             <artifactId>stapler</artifactId>
-            <version>1.243</version>
+            <version>1869.v3605a_771fb_e3</version>
         </dependency>
         <dependency>
             <groupId>com.damnhandy</groupId>
